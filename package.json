@@ -1,0 +1,24 @@
+{
+  "name": "Hi_Hi_CycIone",
+  "version": "0.64.3",
+  "description": "Free open-source game cheat for Tanki Online.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T0HBA/TOHBA.git"
+  },
+  "author": "sheezzmee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/T0HBA/TOHBA/issues"
+  },
+  "homepage": "https://github.com/T0HBA/TOHBA#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "webpack-stream": "^7.0.0"
+  }
+}
